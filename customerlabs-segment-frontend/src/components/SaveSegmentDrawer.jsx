@@ -75,7 +75,7 @@ export default function SaveSegmentDrawer({ open, setOpen }) {
             <ArrowLeft className="w-5 h-5 mr-2" /> Back
           </button>
           <h2 className="text-lg font-semibold">Save Segment</h2>
-          <div></div> {/* empty div for spacing */}
+          <div></div>
         </div>
 
         {/* Body */}
